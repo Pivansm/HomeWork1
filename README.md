@@ -5,3 +5,6 @@
 
 Проект hello-maven
     добавлена библиотека commons-lang3
+
+Проект hello-gradle
+    добавлена библиотека commons-lang3
