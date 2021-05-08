@@ -1,8 +1,8 @@
-package maven.ru.sberbank.restert;
+package maven.ru.sberbank.restart;
 
 import org.apache.commons.lang3.*;
 /**
- * Текст класса HelloWorld
+ * Текст класса HelloWorld Maven
  * @author Ivan
  */
 public class HelloWorld {
